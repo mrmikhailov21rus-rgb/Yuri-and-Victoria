@@ -36,7 +36,7 @@
         .calligraphy {
             font-family: 'Great Vibes', cursive;
             line-height: 0.85;
-            padding-bottom: 12px;
+            padding-bottom: 20px;
         }
 
         /* Фоновый холст для лепестков */
